@@ -1,6 +1,11 @@
 CtrlP-Sonictemplate
 ===================
 
+This plugin is a extension of kien/ctrlp.vim for mattn/sonictemplate-vim.
+
+- [kien/ctrlp.vim](https://github.com/kien/ctrlp.vim)
+- [mattn/sonictemplate-vim](https://github.com/mattn/sonictemplate-vim)
+
 Author
 ------
 
