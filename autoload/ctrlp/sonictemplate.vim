@@ -26,7 +26,7 @@ endfunc
 
 function! ctrlp#sonictemplate#accept(mode, str)
   call ctrlp#exit()
-  exe "cal sonictemplate#apply('".a:str."', 'n')"
+  call sonictemplate#apply(a:str, 'n')
 endfunction
 
 function! ctrlp#sonictemplate#enter()
